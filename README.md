@@ -12,7 +12,7 @@ separately.
 
 The extension never reads, stores, or transmits your email contents. It has no
 analytics, no tracking, and no external servers. See the full
-[Privacy Policy](https://shivankaul.github.io/quick-filter-chrome-extension/privacy/).
+[Privacy Policy](https://shivankaul.com/quick-filter-chrome-extension/privacy/).
 
 ## Support
 
