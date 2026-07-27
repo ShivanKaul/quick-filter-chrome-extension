@@ -37,4 +37,4 @@ location with a revised "Last updated" date.
 ## Contact
 
 For questions about this privacy policy, please open an issue at
-<https://github.com/ShivanKaul/quick-filter-gmail/issues>.
+<https://github.com/ShivanKaul/quick-filter-chrome-extension/issues>.
