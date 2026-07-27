@@ -1,40 +1,27 @@
-# Privacy Policy for Quick Filter for Gmail
+# Quick Filter for Gmail
 
-_Last updated: 2026-07-27_
+One-click access to Gmail's built-in "Filter messages like these" feature, via
+a toolbar button, a keyboard shortcut, or an item in Gmail's own right-click
+menu.
 
-**Quick Filter for Gmail** is designed to be privacy-preserving. It does not
-collect, store, transmit, or sell any personal data.
+This repository is the public home for the extension's Chrome Web Store
+materials and issue tracker. The extension source code is maintained
+separately.
 
-## What the extension does
+## Privacy
 
-The extension adds one-click access to Gmail's built-in "Filter messages like
-these" feature via a toolbar button, a keyboard shortcut, and an item in
-Gmail's own right-click menu. When you invoke it, the extension activates
-Gmail's own native filter flow. It never submits the filter form on your
-behalf; you remain in control of the final action.
+The extension never reads, stores, or transmits your email contents. It has no
+analytics, no tracking, and no external servers. See the full
+[Privacy Policy](PRIVACY.md).
 
-## Data collection
+## Support
 
-- The extension does **not** read, store, or transmit the contents of your
-  emails.
-- The extension does **not** collect any personal or identifying information.
-- The extension does **not** use analytics or tracking of any kind.
-- The extension does **not** send any data to external or third-party servers.
-- The extension does **not** require an account or sign-in.
+Found a bug or have a feature request? Please
+[open an issue](https://github.com/ShivanKaul/quick-filter-chrome-extension/issues).
 
-## Permissions
+## Store assets
 
-The extension requests host access to `https://mail.google.com/*` for the sole
-purpose of adding the filter action to Gmail's interface and activating Gmail's
-native filtering feature. It runs only on Gmail and does not access any other
-website.
+Chrome Web Store listing assets live in [`store/`](store/):
 
-## Changes to this policy
-
-If this policy changes, the updated version will be published at this same
-location with a revised "Last updated" date.
-
-## Contact
-
-For questions about this privacy policy, please open an issue at
-<https://github.com/ShivanKaul/quick-filter-chrome-extension/issues>.
+- `store/screenshot-in-action.jpg` — 1280x800 listing screenshot
+- `store/store-icon-128.png` — 128x128 store icon
