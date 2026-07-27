@@ -1,3 +1,8 @@
+---
+title: Privacy Policy
+permalink: /privacy/
+---
+
 # Privacy Policy for Quick Filter for Gmail
 
 _Last updated: 2026-07-27_
